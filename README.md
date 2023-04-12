@@ -12,3 +12,14 @@ contendo um CRUD.
 - Na raiz do projeto crie o arquivo '.env'
 - Adicione a variável DB_USER de acordo com seu User e DB_PASS de acordo com seu Password gerados no MongoDB
 - No terminal digite o comando 'npm run dev' para deixar a API visível na porta 3000
+
+## Requests
+
+- GET -> /produtos
+- POST -> /produtos
+- PUT -> /produtos/:id
+- DELETE -> /produtos/:id
+
+## Deploy
+
+https://desafio-server-softwares.onrender.com
