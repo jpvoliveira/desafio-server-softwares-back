@@ -15,10 +15,10 @@ contendo um CRUD.
 
 ## Requests
 
--GET - /produtos
--POST - /produtos
--PUT - /produtos/:id
--DELETE - /produtos/:id
+- GET -> /produtos
+- POST -> /produtos
+- PUT -> /produtos/:id
+- DELETE -> /produtos/:id
 
 ## Deploy
 
